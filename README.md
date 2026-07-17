@@ -86,7 +86,7 @@ A 3-layer `Python` REST API (`Flask` + `MySQL`) with a vanilla `JS`/`HTML`/`CSS`
 
 ## GitHub stats
 
-![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierlaforgue&show_icons=true&theme=default&hide_border=true)
+[![Xavier's GitHub stats](https://github-stats-extended.vercel.app/api?username=xavierlaforgue)](https://github.com/stats-organization/github-stats-extended)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierlaforgue&layout=compact&hide_border=true)
 
 ## LeetCode
