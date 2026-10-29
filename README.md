@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Xavier Laforgue
 
-**Back-end developer (Python) · PhD in Physics · Scientific & parallel computing**
+**Quantum Control Scientist | Robust & optimal pulses for quantum gates | PhD in Physics, 6 peer-reviewed papers | MATLAB · Mathematica · Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xavierlaforgue-2c6980?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavierlaforgue)
 [![Email](https://img.shields.io/badge/Email-xavierjimmys%40gmail.com-2c6980?style=flat-square&logo=gmail&logoColor=white)](mailto:xavierjimmys@gmail.com)
