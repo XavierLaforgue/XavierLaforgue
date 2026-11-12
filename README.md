@@ -23,4 +23,4 @@ All 6 publications: [ORCID](https://orcid.org/0000-0002-4379-1581)
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/xavierlaforgue) · [Email:](mailto:xavierjimmys@gmail.com) [xavierjimmys@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=xavierjimmys@gmail.com&su=Contact)
+[LinkedIn](https://linkedin.com/in/xavierlaforgue) · [Email: xavierjimmys@gmail.com](mailto:xavierjimmys@gmail.com)
