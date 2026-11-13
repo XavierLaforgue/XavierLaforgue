@@ -12,7 +12,7 @@ I design control pulses that make quantum operations fast, high-fidelity and rob
 - **Optimal robust stimulated Raman exact passage by inverse optimization**, Phys. Rev. A 105, 032807 (2022):
   3× lower loss and a 13× wider high-fidelity window than the non-robust optimum.
   [arXiv](https://arxiv.org/abs/2209.07631)
-- **PhD thesis**: *Robust control for quantum technology and quantum information processing* (2022).
+- **PhD thesis**: *Robust control for quantum technologies and quantum information processing* (2022).
   [HAL](https://theses.hal.science/tel-03852413)
 
 All 6 publications: [ORCID](https://orcid.org/0000-0002-4379-1581)
